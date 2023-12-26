@@ -24,7 +24,7 @@ var swap;
 function gameStart(){
     random1 = Math.floor(Math.random()*101)
     random2 = Math.floor(Math.random()*101)
-    var random3 = Math.floor(Math.random()*5) 
+    var random3 = Math.floor(Math.random()*5)
 
     
     if (random1 < random2){
